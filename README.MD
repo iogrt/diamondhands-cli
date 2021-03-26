@@ -8,7 +8,7 @@ Remember to get run permissions (`chmod +x diamondhands.sh`)
 
 ## Example Usage
 ### Viewing stocks
-	```bash
+```bash
 $ ./diamondhands.sh view AMZN
 AMZN STOCK:
 Right now: 3046.26
