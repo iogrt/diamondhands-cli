@@ -1,4 +1,4 @@
-# DiamondHands-cli
+# DiamondHands-cli 💎🙌
 > a quick & little bash program to simulate stock trading
 
 ## Installation
